@@ -1,0 +1,79 @@
+*{
+    border:solid;
+}
+.header{
+    background-color:yellowgreen;
+    display:flex;
+    justify-content : space-between;
+    border: solid;
+}
+.menu{
+    display:flex ;
+    justify-content: space-between;
+    background-color: lawngreen;
+    padding : 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+body{
+    margin : 0px;
+    background-color: lightgreen;
+}
+.bodyimg{
+    background-color:forestgreen;
+} 
+.grid{
+     background-color: forestgreen;
+     border:2px solid yellow;
+     border-radius: 40px;
+}
+.origami{
+    border-radius: 40px;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+.origami1{
+    background-color: lawngreen;
+    border-radius: 40px;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+.origami2{
+    background-color: lawngreen;
+    border-radius: 40px;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+.origami3{
+    background-color: lawngreen;
+    border-radius: 40px;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+.head{
+    background-color: forestgreen;
+    border-radius: 40px;
+}
+.follow{
+    background-color: forestgreen;
+    border-radius: 15px;
+}
+
+.hello{
+    border: yellow;
+    background-color: teal;
+}
+
+.follow{
+    border: tomato;
+    background-color: turquoise;
+}
